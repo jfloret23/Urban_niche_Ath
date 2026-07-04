@@ -30,6 +30,28 @@ This repository provides the data, code, and documentation needed to reproduce t
 
 The repository includes the following data files:
 
+**Dormancy_exsitu.ods** 
+Release of primary dormancy across time in transplanted A. thaliana populations. Germination rate (number of germinated
+seeds relative to total seeds) was measured on the progeny of 359 transplanted individuals from 87 populations at
+different time points after fruit ripening (number of weeks).
+
+**Ecological_parameters.ods**
+Environmental factors characterizing the urban habitats. The ecological factors were measured at different key
+phenological stages of A. thaliana between September 2021 and May 2022 across 393 sites in Cologne. 
+
+**F5_pools_medianAF_50kb_noContamination.csv**	
+Median allele frequencies of F5 generation, calculated in 50 kb windows across the genome. Sequencing reads were mapped
+to the A. thaliana Col0 reference genome, and alleles were polarized so that the MIL2 genotype was considered as the
+reference. 
+
+**FT_exsitu.ods**
+Ex situ flowering time data from a total of 958 progeny from 138 transplanted populations (17 meadows, 38 pavements, 23 tree beds and 34 walls) were sown under longday conditions.
+
+**Population_biology_insitu.ods**
+Date of the habitat site monitoring. Each year, sites were monitored at several critical stages of the A. thaliana life
+cycle: germination, flowering, and fruiting. Sites where no population was established were further monitored at least
+twice per year (October and April) to ensure we did not miss a population that would have germinated late. These
+observations enabled quantification of establishment and persistence rates, population size, and onset of flowering:
 
 ## Scripts
 

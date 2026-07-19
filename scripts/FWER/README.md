@@ -193,6 +193,7 @@ Output files:
 ## Step 5: Determine the p-value threshold for the target FWER
 Input files: 
 - Spearman correlation $\rho$ statistics: `estimates_{replicate}.csv`
+- Spearman correlation p_values: `pvals_${replicate}.csv`
 
 
 <h5 a><strong><code>thresh_finder.py</code></strong></h5>
